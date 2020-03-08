@@ -8,18 +8,18 @@
             <LayoutPositions>
               <option name="myPositions">
                 <map>
-                  <entry key="chooseRecipeFragment">
+                  <entry key="chooseRecipientFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-484" />
-                            <option name="y" value="-203" />
+                            <option name="x" value="12" />
+                            <option name="y" value="12" />
                           </Point>
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_chooseRecipeFragment_to_specifyAmountFragment">
+                            <entry key="action_chooseRecipientFragment_to_specifyAmountFragment">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -52,7 +52,7 @@
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_mainFragment_to_chooseRecipeFragment">
+                            <entry key="action_mainFragment_to_chooseRecipientFragment">
                               <value>
                                 <LayoutPositions />
                               </value>

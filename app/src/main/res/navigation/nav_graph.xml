@@ -92,6 +92,15 @@
               android:label="fragment_confirmation"
               tools:layout="@layout/fragment_confirmation">
 
+        <action
+                android:id="@+id/action_confirmationFragment_to_mainFragment"
+                app:destination="@id/mainFragment"
+                app:popUpTo="@id/mainFragment"
+                app:popUpToInclusive="true"
+                app:enterAnim="@anim/fade_in"
+                app:exitAnim="@anim/fade_out" />
+
+
         <argument android:name="recipient"
                   android:defaultValue="None"/>
 
